@@ -1,0 +1,27 @@
+img{
+    box-sizing: border-box;
+    position: absolute;
+    height: 222px;
+    width: 222px;
+    left: 76px;
+    top: 75px;
+    border-radius: 1000px;
+ 
+    /*margin-bottom: 10px; */
+}
+
+rect{
+    position: absolute;
+width: 333px;
+height: 1075px;
+left: 21px;
+top: 19px;
+
+background: #262626;
+border-radius: 50px;
+}
+
+.space{
+    color: white; 
+    margin-left: 70px;
+}
